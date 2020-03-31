@@ -1,0 +1,7 @@
+pyjwt
+flask
+gunicorn
+pytest
+flask_script
+flask_migrate
+psycopg2-binary
